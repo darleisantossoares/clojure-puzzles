@@ -17,6 +17,29 @@ Yours in the pursuit of knowledge,
 
 The Webmaster of this Digital Athenaeum
 
+#### Example
+
+![image](https://github.com/darleisantossoares/clojure-puzzles/assets/5891902/ac3cf03b-4b6b-4c27-8081-07ab51727987)
+
+
+##### Input
+```
+(def graph {:a [:b :c]
+            :b [:a :d :e]
+            :c [:a :f]
+            :d [:b]
+            :e [:b :f]
+            :f [:c :e]
+            :g []})
+
+starting-point :a
+```
+
+##### Output
+```
+#{:a :b :c :d :e :f})
+```
+
 
 
 
