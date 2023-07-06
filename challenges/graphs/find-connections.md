@@ -32,7 +32,7 @@ The Webmaster of this Digital Athenaeum
             :f [:c :e]
             :g []})
 
-[graph :a]
+(answer [graph :a])
 ```
 
 ##### Output
@@ -50,12 +50,12 @@ The Webmaster of this Digital Athenaeum
             :f [:c :e]
             :g []})
 
-[graph :g]
+(answer [graph :g])
 ```
 
 ##### Output
 ```
-#{})
+#{}
 ```
 
 
