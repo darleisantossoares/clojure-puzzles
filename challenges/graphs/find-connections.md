@@ -16,7 +16,7 @@ We eagerly await the result of your endeavor. Take courage, for the stars themse
 Yours in the pursuit of knowledge,
 
 The Webmaster of this Digital Athenaeum
-
+---------------------------------------------------------------------------------
 #### Example
 
 ![image](https://github.com/darleisantossoares/clojure-puzzles/assets/5891902/ac3cf03b-4b6b-4c27-8081-07ab51727987)
