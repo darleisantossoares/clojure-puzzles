@@ -32,7 +32,7 @@ The Webmaster of this Digital Athenaeum
             :f [:c :e]
             :g []})
 
-starting-point :a
+[graph :a]
 ```
 
 ##### Output
@@ -40,6 +40,11 @@ starting-point :a
 #{:a :b :c :d :e :f})
 ```
 
-
+#### Code example
+```
+(defn answer
+  [graph starting-point]
+  YOUR CODE GOES HERE)
+```
 
 
