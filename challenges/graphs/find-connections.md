@@ -19,7 +19,7 @@ The Webmaster of this Digital Athenaeum
 ---------------------------------------------------------------------------------
 #### Example
 
-![image](./connections.png)
+![image](./connections2.png)
 
 
 ##### Input
